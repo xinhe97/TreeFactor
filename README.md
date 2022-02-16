@@ -7,12 +7,12 @@ This is the public R package for Panel Tree factor model. More details are in th
 
 - use Mac/Linux command line, go to folder where you store github repos
 - git clone this repo to your machine
-- run *ls* command, you should see **TreeFactor** printed
-- run *R CMD TreeFactor*
+- run `ls` command, you should see **TreeFactor** printed
+- run `R CMD TreeFactor`
 
 # How to start using **TreeFactor**
 
-- run *demo.sh*
+- run `demo.sh`
     - simulate R data
     - run demo1 for basic boosted tree
     - run demo2 for market adjusted boosted tree
