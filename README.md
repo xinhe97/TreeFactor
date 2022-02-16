@@ -12,12 +12,13 @@ This is the public R package for Panel Tree factor model. More details are in th
 
 # How to start using **TreeFactor**
 
+- run `cd TreeFactor`
 - run `demo.sh`
     - simulate R data
     - run demo1 for basic boosted tree
     - run demo2 for market adjusted boosted tree
     - run demo3 for time series split.
-- you can find the printed output in demo folders.
+- you can find the printed output in `test/demo` folders.
 
 # Reference
 
