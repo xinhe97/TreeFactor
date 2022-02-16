@@ -1,1 +1,0 @@
-Rscript main_mkt_adj.R > main_mkt_adj.out.txt 2>&1
